@@ -13,7 +13,7 @@ This website is a straightforward and user-friendly to-do-list, created with HTM
 
 ### Demo Screeshots
 
-![404-Responsive-Page Desktop Demo](https://user-images.githubusercontent.com/100890340/236616209-2cdd203e-1869-4fa1-8f03-e8fc54c6dfb7.png)
+![404-Responsive-Page Desktop Demo](https://user-images.githubusercontent.com/100890340/236624604-e5265fce-65b1-49ec-9602-da9e782216d3.png)
 
 ### Contact
 
